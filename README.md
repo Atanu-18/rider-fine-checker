@@ -45,7 +45,7 @@ let lic = false;
 3. Run the file using:
 
 ```bash
-node filename.js
+rider.js
 ```
 
 ---
